@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+
 <!--
 **RaclosDev/RaclosDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
