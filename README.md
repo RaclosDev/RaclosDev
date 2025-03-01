@@ -1,105 +1,132 @@
 <h1 align="center">
-  𝐇𝐞𝐥𝐥𝐨👋
+  🚀 𝐇𝐞𝐥𝓁𝑜! 👋 𝙸'𝚖 𝙲𝚊𝚛𝚕𝚘𝚜 𝚂𝚊𝚗𝚣 𝚃𝚘𝚖𝚎𝚛𝚘
 </h1>
 
-<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
-<h4 align="center">  
-while( ! (succeed = try()) ) 
-</h4>  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;Spring+Boot+Specialist;REST+API+Designer;Microservices+Architect" alt="Typing SVG" />
+</p>
 
+<div align="center">
+  <img height="150" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Coding GIF">
+  <h3 align="center">💻 Development Mantra:</h3>
+  <code>while( ! (succeed = try()) ) { /* Success through persistence! */ }</code>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=raclosdev&style=flat-square&color=blue" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/raclosdev?label=Followers&style=social" alt="GitHub followers">
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=raclosdev&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=onedark)
+
+---
+
+## 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+    
+### ☕ Backend & Databases
 <p align="left">
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=raclosdev&style=flat&color=blue"> •   
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/raclosdev?label=Followers&style=social"> •
+  <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="50" height="50"/>
 </p>
+    </td>
+    <td valign="top" width="50%">
+    
+### 🛠️ DevOps & Tools
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/maven_original_logo_icon_146430.png" alt="Maven" width="50" height="50"/>
+</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+    
+### 🔧 Testing & Version Control
+<p align="left">
+  <img src="https://techicons.dev/icons/junit" alt="JUnit" width="50" height="50"/>
+  <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" alt="SVN" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/liquibase.svg" alt="Liquibase" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="50" height="50"/>
+</p>
+    </td>
+    <td valign="top" width="50%">
+    
+### 💻 IDEs & Cloud
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="IntelliJ" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="Eclipse" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="50" height="50"/>
+  <img src="![image](https://github.com/user-attachments/assets/fc70ac9a-0d04-492b-be63-fa27a534066e)
+" alt="AWS" width="50" height="50"/>
+</p>
+    </td>
+  </tr>
+</table>
 
-#
+## 💼 Professional Experience
 
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=raclosdev&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+### <img align="left" height="30" src="https://cdn.theorg.com/c1cb88e2-455d-4155-abee-91dba58f8376_thumb.jpg" /> **Java Software Developer**  
+**Monty Global Payments** (Nov 2022 - Present) · Madrid, Spain · Hybrid  
 
+- Development and maintenance of RESTful microservices for financial platform migration  
+- Core areas: Client accounting and transaction management systems  
+- **Technologies:** Java 8-17, Spring Boot, Docker, MySQL/PostgreSQL, MongoDB, RabbitMQ  
 
-#
+---
 
+### <img align="left" height="30" src="https://www.slowbarcelona.es/wp-content/uploads/2019/06/logo-redsys1-870x352.png" /> **Java Software Engineer**  
+**Redsys Spain** (Oct 2019 - Jun 2021) · Madrid, Spain  
 
-<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg"></a>
-<br/>
+- Designed automated payment protocol simulators for transaction processing  
+- Developed testing frameworks for payment platform compliance  
+- **Technologies:** Java 8, Spring Boot, MySQL, JUnit, Jenkins, SVN  
 
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
-<br/>
-<br/>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-<code><img height="40" width="40" src="https://miro.medium.com/max/1400/1*UBZYjKJigowCJOK4SaHicw.jpeg"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-#
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
+---
 
-<br/>
+## 📊 GitHub Stats
 
-#
+<div align="center">
+  <a href="https://github.com/raclosdev">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=raclosdev&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/raclosdev">
+    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raclosdev&layout=compact&theme=radical&langs_count=8" />
+  </a>
+</div>
 
+---
 
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-<br>
+## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://github.com/raclosdev">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=raclosdev&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  <a href="https://www.linkedin.com/in/carlos-sanz-tomero/">
+    <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="60"/>
+  </a>
+  <a href="mailto:tuemail@example.com">
+    <img src="https://img.icons8.com/color/96/000000/gmail.png" width="60"/>
   </a>
   <a href="https://github.com/raclosdev">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raclosdev&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img src="https://img.icons8.com/fluent/96/000000/github.png" width="60"/>
   </a>
 </p>
-</details>
 
-<br> <br>
-
-## 🚀 **Work Experience** :computer_mouse: :desktop_computer: 
-
-| 💼 Designation |  🏢Organization | ⏰Timeline  |
-| :-: | :-: | :-: |
-| Cloud DevOps Engineer | Monty Global Payments <img align="center" height="40px" src="https://cdn.theorg.com/c1cb88e2-455d-4155-abee-91dba58f8376_thumb.jpg" /> | Nov 2022 - Present |
-| Open source mentor | Redsys Spain <img align="center" height="40px" src="https://www.slowbarcelona.es/wp-content/uploads/2019/06/logo-redsys1-870x352.png" /> | Oct 2019 - Jun 2021 |
-
-
-
-
-
-
- Last Updated on 01/03/2025
-
-
-
-<h1>
-  Connect With Me
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
-  </a>
-</h1>
-
-<p align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/carlos-sanz-tomero/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
-  </a>
-  
-  
-</p>
-<br/>
-
-**Credits**: [raclosdev](https://github.com/raclosdev)
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+</div>
