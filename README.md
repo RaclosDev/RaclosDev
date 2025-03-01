@@ -38,7 +38,6 @@
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="50" height="50"/>
 </p>
     </td>
@@ -71,7 +70,7 @@
   <img src="https://github.com/RaclosDev/RaclosDev/blob/main/icons/ides%26cloud/IntelliJIDEA.png" alt="IntelliJ" width="50" height="50"/>
   <img src="https://github.com/RaclosDev/RaclosDev/blob/main/icons/ides%26cloud/EclipseIDE.png" alt="Eclipse" width="50" height="50"/>
   <img src="https://github.com/RaclosDev/RaclosDev/blob/main/icons/ides%26cloud/GoogleCloud.png" alt="GCP" width="50" height="50"/>
-  <img src="https://github.com/RaclosDev/RaclosDev/blob/main/icons/AWS.png" alt="AWS" width="50" height="50"/>
+  <img src="https://github.com/RaclosDev/RaclosDev/blob/main/icons/ides%26cloud/AWS.png" alt="AWS" width="50" height="50"/>
 </p>
     </td>
   </tr>
