@@ -46,12 +46,10 @@
     
 ### 🛠️ DevOps & Tools
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/maven_original_logo_icon_146430.png" alt="Maven" width="50" height="50"/>
+  <img src="https://github.com/RaclosDev/RaclosDev/blob/main/icons/DevOps%26Tools/Kubernetes.png" alt="Kubernetes" width="50" height="50"/>
+  <img src="https://github.com/RaclosDev/RaclosDev/blob/main/icons/DevOps%26Tools/Jenkins.png" alt="Jenkins" width="50" height="50"/>
+  <img src="https://github.com/RaclosDev/RaclosDev/blob/main/icons/DevOps%26Tools/Docker.png" alt="Docker" width="50" height="50"/>
+  <img src="https://github.com/RaclosDev/RaclosDev/blob/main/icons/DevOps%26Tools/ApacheMaven.png" alt="Maven" width="50" height="50"/>
 </p>
     </td>
   </tr>
@@ -60,21 +58,20 @@
     
 ### 🔧 Testing & Version Control
 <p align="left">
-  <img src="https://techicons.dev/icons/junit" alt="JUnit" width="50" height="50"/>
-  <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" alt="SVN" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/liquibase.svg" alt="Liquibase" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="50" height="50"/>
+  <img src="https://github.com/RaclosDev/RaclosDev/blob/main/icons/Testing%26VersionControl/JUnit.png" alt="JUnit" width="50" height="50"/>
+  <img src="https://github.com/RaclosDev/RaclosDev/blob/main/icons/Testing%26VersionControl/Git.png" alt="Git" width="50" height="50"/>
+  <img src="https://github.com/RaclosDev/RaclosDev/blob/main/icons/Testing%26VersionControl/GitHub.png" alt="GitHub" width="50" height="50"/>
+
 </p>
     </td>
     <td valign="top" width="50%">
     
 ### 💻 IDEs & Cloud
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="IntelliJ" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="Eclipse" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="50" height="50"/>
-  <img src="![image](https://github.com/user-attachments/assets/fc70ac9a-0d04-492b-be63-fa27a534066e)
-" alt="AWS" width="50" height="50"/>
+  <img src="https://github.com/RaclosDev/RaclosDev/blob/main/icons/ides%26cloud/IntelliJIDEA.png" alt="IntelliJ" width="50" height="50"/>
+  <img src="https://github.com/RaclosDev/RaclosDev/blob/main/icons/ides%26cloud/EclipseIDE.png" alt="Eclipse" width="50" height="50"/>
+  <img src="https://github.com/RaclosDev/RaclosDev/blob/main/icons/ides%26cloud/GoogleCloud.png" alt="GCP" width="50" height="50"/>
+  <img src="https://github.com/RaclosDev/RaclosDev/blob/main/icons/AWS.png" alt="AWS" width="50" height="50"/>
 </p>
     </td>
   </tr>
