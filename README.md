@@ -115,7 +115,7 @@
   <a href="https://www.linkedin.com/in/carlos-sanz-tomero/">
     <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="60"/>
   </a>
-  <a href="mailto:tuemail@example.com">
+  <a href="mailto:raclosdev@gmail.com">
     <img src="https://img.icons8.com/color/96/000000/gmail.png" width="60"/>
   </a>
   <a href="https://github.com/raclosdev">
