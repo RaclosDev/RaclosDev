@@ -21,11 +21,6 @@
 
 <br/>
 
-## 🏆 GitHub Trophies
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=raclosdev&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=onedark)
-
----
-
 ## 🛠️ Tech Stack
 
 <table align="center">
