@@ -1,123 +1,102 @@
-<h1 align="center">
-🚀 𝙷𝚎𝚕𝚕𝚘! 👋 𝙸'𝚖 𝙲𝚊𝚛𝚕𝚘𝚜 𝚂𝚊𝚗𝚣 𝚃𝚘𝚖𝚎𝚛𝚘
-</h1>
+<h1 align="center">Hola, soy Carlos (RaclosDev) 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;Spring+Boot+Specialist;REST+API+Designer;Microservices+Architect" alt="Typing SVG" />
+  <a href="https://raclosdev.github.io" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Java+%26+Spring+Boot;React+%26+Tailwind+CSS;Generative+AI+Integrations" alt="Typing SVG" />
+  </a>
 </p>
 
-<div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Coding GIF">
-  <h3 align="center">💻 Development Mantra:</h3>
-  <code>while( ! (succeed = try()) ) { /* Success through persistence! */ }</code>
-</div>
+<p align="center">
+  Soy desarrollador fullstack apasionado por llevar ideas desde cero hasta producción. Me especializo en <b>Java & Spring Boot</b> en el backend y <b>React</b> en el frontend, construyendo PWAs ricas en funcionalidades con integraciones nativas de IA Generativa.
+  <br/><br/>
+  <a href="https://raclosdev.github.io">🌐 Visita mi Portfolio Web</a> • 
+  <a href="https://www.linkedin.com/in/carlos-sanz-tomero/">💼 LinkedIn</a>
+</p>
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=raclosdev&style=flat-square&color=blue" alt="Profile views">
-  <img src="https://img.shields.io/github/followers/raclosdev?label=Followers&style=social" alt="GitHub followers">
-</div>
+## 🚀 Proyectos Destacados
 
-<br/>
-
-## 🛠️ Tech Stack
-
-<table align="center">
+<table width="100%">
   <tr>
-    <td valign="top" width="50%">
-    
-### ☕ Backend & Databases
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="50" height="50"/>
-</p>
+    <td width="30%" align="center">
+      <a href="https://ascension.raclos.es">
+        <img src="https://raw.githubusercontent.com/RaclosDev/ascension-tracker/main/frontend/public/icon-512.png" width="120" alt="Ascension Logo">
+      </a>
     </td>
-    <td valign="top" width="50%">
-    
-### 🛠️ DevOps & Tools
-<p align="left">
-  <img src="https://github.com/RaclosDev/RaclosDev/blob/main/icons/DevOps%26Tools/Kubernetes.png" alt="Kubernetes" width="50" height="50"/>
-  <img src="https://github.com/RaclosDev/RaclosDev/blob/main/icons/DevOps%26Tools/Jenkins.png" alt="Jenkins" width="50" height="50"/>
-  <img src="https://github.com/RaclosDev/RaclosDev/blob/main/icons/DevOps%26Tools/Docker.png" alt="Docker" width="50" height="50"/>
-  <img src="https://github.com/RaclosDev/RaclosDev/blob/main/icons/DevOps%26Tools/ApacheMaven.png" alt="Maven" width="50" height="50"/>
-</p>
+    <td width="70%">
+      <h3><a href="https://github.com/RaclosDev/ascension-tracker">Ascension Tracker</a></h3>
+      <p><b>Fitness, Nutrición & IA</b><br/>PWA 100% nativa (Workbox Offline) para el seguimiento de entrenamientos y nutrición. Integra un asistente de IA (Google Gemini) que procesa fotos de platos para estimar pesos y macros. Constructor Drag & Drop, notificaciones push en background y escáner de código de barras.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white" />
+      </p>
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%">
-    
-### 🔧 Testing & Version Control
-<p align="left">
-  <img src="https://github.com/RaclosDev/RaclosDev/blob/main/icons/Testing%26VersionControl/JUnit.png" alt="JUnit" width="50" height="50"/>
-  <img src="https://github.com/RaclosDev/RaclosDev/blob/main/icons/Testing%26VersionControl/Git.png" alt="Git" width="50" height="50"/>
-  <img src="https://github.com/RaclosDev/RaclosDev/blob/main/icons/Testing%26VersionControl/GitHub.png" alt="GitHub" width="50" height="50"/>
-
-</p>
+    <td width="30%" align="center">
+      <a href="https://loopdeck.raclos.es">
+        <img src="https://raw.githubusercontent.com/RaclosDev/loopdeck/main/frontend/public/loopdeck-icon-512.png" width="120" alt="LoopDeck Logo">
+      </a>
     </td>
-    <td valign="top" width="50%">
-    
-### 💻 IDEs & Cloud
-<p align="left">
-  <img src="https://github.com/RaclosDev/RaclosDev/blob/main/icons/ides%26cloud/IntelliJIDEA.png" alt="IntelliJ" width="50" height="50"/>
-  <img src="https://github.com/RaclosDev/RaclosDev/blob/main/icons/ides%26cloud/EclipseIDE.png" alt="Eclipse" width="50" height="50"/>
-  <img src="https://github.com/RaclosDev/RaclosDev/blob/main/icons/ides%26cloud/GoogleCloud.png" alt="GCP" width="50" height="50"/>
-  <img src="https://github.com/RaclosDev/RaclosDev/blob/main/icons/ides%26cloud/AWS.png" alt="AWS" width="50" height="50"/>
-</p>
+    <td width="70%">
+      <h3><a href="https://github.com/RaclosDev/loopdeck">LoopDeck</a></h3>
+      <p><b>Repetición Espaciada Inteligente</b><br/>Plataforma de flashcards con algoritmo SM-2 y múltiples modos de estudio interactivos. Incorpora un Tutor IA conversacional, generación masiva de tarjetas, sub-mazos anidados y un visor nativo de archivos .docx para extraer apuntes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
+      </p>
     </td>
   </tr>
 </table>
 
-## 💼 Professional Experience
+<br/>
 
-### <img align="left" height="30" src="https://cdn.theorg.com/c1cb88e2-455d-4155-abee-91dba58f8376_thumb.jpg" /> **Java Software Developer**  
-**Monty Global Payments** (Nov 2022 - Present) · Madrid, Spain · Hybrid  
+## 🛠️ Stack Tecnológico
 
-- Development and maintenance of RESTful microservices for financial platform migration  
-- Core areas: Client accounting and transaction management systems  
-- **Technologies:** Java 8-17, Spring Boot, Docker, MySQL/PostgreSQL, MongoDB, RabbitMQ  
-
----
-
-### <img align="left" height="30" src="https://www.slowbarcelona.es/wp-content/uploads/2019/06/logo-redsys1-870x352.png" /> **Java Software Engineer**  
-**Redsys Spain** (Oct 2019 - Jun 2021) · Madrid, Spain  
-
-- Designed automated payment protocol simulators for transaction processing  
-- Developed testing frameworks for payment platform compliance  
-- **Technologies:** Java 8, Spring Boot, MySQL, JUnit, Jenkins, SVN  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/raclosdev">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=raclosdev&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/raclosdev">
-    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raclosdev&layout=compact&theme=radical&langs_count=8" />
-  </a>
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/carlos-sanz-tomero/">
-    <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="60"/>
-  </a>
-  <a href="mailto:raclosdev@gmail.com">
-    <img src="https://img.icons8.com/color/96/000000/gmail.png" width="60"/>
-  </a>
-  <a href="https://github.com/raclosdev">
-    <img src="https://img.icons8.com/fluent/96/000000/github.png" width="60"/>
-  </a>
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Java_17%2F21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot_3.3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate_&_JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/PWA_&_Workbox-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
+</p>
+
+### Base de Datos & DevOps
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
+
+<br/>
+
+## 📊 Estadísticas de GitHub
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RaclosDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de RaclosDev" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaclosDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lenguajes principales" />
 </div>
+
+<p align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=raclosdev&style=flat-square&color=06B6D4&label=Vistas+al+perfil" alt="Profile views">
+</p>
