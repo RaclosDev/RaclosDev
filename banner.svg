@@ -1,0 +1,49 @@
+<svg width="900" height="220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0f"/>
+      <stop offset="100%" style="stop-color:#12121a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6366f1"/>
+      <stop offset="50%" style="stop-color:#06b6d4"/>
+      <stop offset="100%" style="stop-color:#f97316"/>
+    </linearGradient>
+    <linearGradient id="glow1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:0.15"/>
+      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:0"/>
+    </linearGradient>
+    <linearGradient id="glow2" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f97316;stop-opacity:0.1"/>
+      <stop offset="100%" style="stop-color:#a855f7;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="900" height="220" fill="url(#bg)" rx="12"/>
+  <!-- Grid pattern -->
+  <g opacity="0.04" stroke="#ffffff" stroke-width="0.5">
+    <line x1="0" y1="0" x2="0" y2="220"/><line x1="60" y1="0" x2="60" y2="220"/>
+    <line x1="120" y1="0" x2="120" y2="220"/><line x1="180" y1="0" x2="180" y2="220"/>
+    <line x1="240" y1="0" x2="240" y2="220"/><line x1="300" y1="0" x2="300" y2="220"/>
+    <line x1="360" y1="0" x2="360" y2="220"/><line x1="420" y1="0" x2="420" y2="220"/>
+    <line x1="480" y1="0" x2="480" y2="220"/><line x1="540" y1="0" x2="540" y2="220"/>
+    <line x1="600" y1="0" x2="600" y2="220"/><line x1="660" y1="0" x2="660" y2="220"/>
+    <line x1="720" y1="0" x2="720" y2="220"/><line x1="780" y1="0" x2="780" y2="220"/>
+    <line x1="840" y1="0" x2="840" y2="220"/><line x1="900" y1="0" x2="900" y2="220"/>
+    <line x1="0" y1="0" x2="900" y2="0"/><line x1="0" y1="60" x2="900" y2="60"/>
+    <line x1="0" y1="120" x2="900" y2="120"/><line x1="0" y1="180" x2="900" y2="180"/>
+  </g>
+  <!-- Glow effects -->
+  <ellipse cx="150" cy="50" rx="250" ry="150" fill="url(#glow1)"/>
+  <ellipse cx="750" cy="170" rx="250" ry="150" fill="url(#glow2)"/>
+  <!-- Accent line top -->
+  <rect x="0" y="0" width="900" height="3" fill="url(#accent)" rx="1"/>
+  <!-- Logo bracket -->
+  <text x="450" y="70" text-anchor="middle" fill="#52526a" font-family="'JetBrains Mono', monospace" font-size="16" font-weight="400">&lt;RaclosDev /&gt;</text>
+  <!-- Name -->
+  <text x="450" y="115" text-anchor="middle" fill="#e4e4e7" font-family="Inter, -apple-system, sans-serif" font-size="40" font-weight="800">Hola, soy Carlos</text>
+  <!-- Role -->
+  <text x="450" y="150" text-anchor="middle" fill="#8b8b9e" font-family="Inter, -apple-system, sans-serif" font-size="18" font-weight="400">Fullstack Developer</text>
+  <!-- Tech strip -->
+  <text x="450" y="185" text-anchor="middle" fill="#52526a" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="500">Java  ◆  Spring Boot  ◆  React 19  ◆  Tailwind CSS  ◆  Gemini AI  ◆  PostgreSQL  ◆  Docker  ◆  PWA</text>
+</svg>
