@@ -85,9 +85,9 @@ Plataforma fullstack para gestionar porras y predicciones del Mundial 2026 entre
 
 ## 👨‍💻 Un poco más sobre mí
 
-Soy desarrollador fullstack con experiencia en **Java** y **Spring Boot** en el backend, y **React 19** con **Tailwind CSS** en el frontend. Mis proyectos son PWAs en producción real.
+Soy ingeniero de software con perfil **Backend** y sólida experiencia en **Java**, **Spring Boot** y arquitecturas de microservicios. En mi día a día trabajo con transaccionalidad, infraestructura financiera y bots de trading algorítmico de baja latencia.
 
-Me gusta llevar las ideas desde cero hasta producción: diseñar la arquitectura, implementar APIs REST seguras con JWT y OAuth2, integrar **Google Gemini AI** para funcionalidades inteligentes, montar bases de datos PostgreSQL y desplegar con Docker.
+Para mis proyectos personales, me gusta llevar el control total del producto. Diseño la infraestructura y las APIs desde cero, y me apoyo en herramientas de **Inteligencia Artificial (LLMs)** para construir y generar los frontends modernos en **React**, lo que me permite desplegar PWAs complejas actuando como un equipo completo.
 
 <div align="center">
   <br>

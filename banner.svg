@@ -43,7 +43,7 @@
   <!-- Name -->
   <text x="450" y="115" text-anchor="middle" fill="#e4e4e7" font-family="Inter, -apple-system, sans-serif" font-size="40" font-weight="800">Hola, soy Carlos</text>
   <!-- Role -->
-  <text x="450" y="150" text-anchor="middle" fill="#8b8b9e" font-family="Inter, -apple-system, sans-serif" font-size="18" font-weight="400">Fullstack Developer</text>
+  <text x="450" y="150" text-anchor="middle" fill="#8b8b9e" font-family="Inter, -apple-system, sans-serif" font-size="18" font-weight="400">Backend Software Developer</text>
   <!-- Tech strip -->
-  <text x="450" y="185" text-anchor="middle" fill="#52526a" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="500">Java  ◆  Spring Boot  ◆  React 19  ◆  Tailwind CSS  ◆  Gemini AI  ◆  PostgreSQL  ◆  Docker  ◆  PWA</text>
+  <text x="450" y="185" text-anchor="middle" fill="#52526a" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="500">Java  ◆  Spring Boot  ◆  Microservices  ◆  Gemini AI  ◆  PostgreSQL  ◆  Docker</text>
 </svg>
