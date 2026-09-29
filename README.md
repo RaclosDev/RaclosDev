@@ -1,32 +1,65 @@
-# Carlos (RaclosDev)
+<div align="center">
+  <h1>Carlos Sanz (RaclosDev)</h1>
+  <p><b>Fullstack Developer | Java, Spring Boot & React</b></p>
+  <p>
+    <a href="https://raclosdev.github.io">🌐 Portfolio Web</a> &nbsp;&bull;&nbsp;
+    <a href="https://www.linkedin.com/in/carlos-sanz-tomero/">💼 LinkedIn</a>
+  </p>
+</div>
 
-**Fullstack Developer | Java, Spring Boot, React**
+<br/>
 
-Desarrollador de software especializado en el diseño e implementación de aplicaciones fullstack. Experiencia llevando productos desde la conceptualización de la arquitectura hasta el despliegue en producción, con un enfoque reciente en la integración práctica de Inteligencia Artificial (LLMs) y Progressive Web Apps (PWAs).
-
-🌐 [Portfolio](https://raclosdev.github.io) &nbsp;&bull;&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/carlos-sanz-tomero/)
-
----
-
-## Proyectos Principales
-
-### [Ascension Tracker](https://ascension.raclos.es)
-Plataforma PWA orientada al sector fitness y nutricional con integración de IA Generativa.
-* **Arquitectura:** Backend en Java 17 y Spring Boot 3.3 con PostgreSQL. Frontend en React 19 y Tailwind CSS v4.
-* **Implementaciones Clave:** Procesamiento de imágenes mediante Google Gemini API para la estimación de macronutrientes, arquitectura *Offline-First* con Workbox, notificaciones push asíncronas y motor de rutinas con interfaz *drag-and-drop*.
-* **Repositorio:** [RaclosDev/ascension-tracker](https://github.com/RaclosDev/ascension-tracker)
-
-### [LoopDeck](https://loopdeck.raclos.es)
-Sistema de aprendizaje avanzado basado en el algoritmo de repetición espaciada SM-2.
-* **Arquitectura:** API REST en Spring Boot, gestión de migraciones con Flyway y frontend modular en React 19 con Zustand.
-* **Implementaciones Clave:** Generador masivo de contenido basado en IA, tutor conversacional contextual, visor de documentos `.docx` nativo en cliente y extracción automatizada de metadatos mediante la API de Wikipedia.
-* **Repositorio:** [RaclosDev/loopdeck](https://github.com/RaclosDev/loopdeck)
+## 👨‍💻 Sobre Mí
+Soy desarrollador fullstack especializado en construir arquitecturas escalables. Me apasiona llevar ideas desde cero hasta producción, creando PWAs rápidas en **React** integradas con APIs robustas en **Spring Boot** y motores de **IA Generativa**.
 
 ---
 
-## Competencias Técnicas
+## 🚀 Proyectos Destacados
 
-* **Backend:** Java (17/21), Spring Framework (Boot, Security, Data), Diseño de APIs RESTful, OAuth2 / JWT.
-* **Frontend:** React 19, TypeScript, Tailwind CSS, TanStack Query, Zustand, PWA.
-* **Base de Datos & Infraestructura:** PostgreSQL, Docker, Docker Compose, Flyway, CI/CD (GitHub Actions).
-* **Integraciones Core:** Google Gemini API, WebSockets, Web Push Protocol (VAPID).
+<table width="100%">
+  <tr>
+    <td width="20%" align="center">
+      <a href="https://ascension.raclos.es">
+        <img src="https://raw.githubusercontent.com/RaclosDev/ascension-tracker/main/frontend/public/icon-512.png" width="100" alt="Ascension Logo">
+      </a>
+    </td>
+    <td width="80%">
+      <h3><a href="https://ascension.raclos.es">Ascension Tracker</a></h3>
+      <p><b>Plataforma Fitness & Nutrición con IA</b></p>
+      <p>PWA <i>Offline-First</i> que integra un asistente Gemini para estimar macronutrientes procesando fotos de comida. Incluye notificaciones push y un constructor de rutinas Drag&Drop.</p>
+      <i>Stack: Java 17, Spring Boot, React 19, Tailwind v4, PostgreSQL, Gemini AI</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">
+      <a href="https://loopdeck.raclos.es">
+        <img src="https://raw.githubusercontent.com/RaclosDev/loopdeck/main/frontend/public/loopdeck-icon-512.png" width="100" alt="LoopDeck Logo">
+      </a>
+    </td>
+    <td width="80%">
+      <h3><a href="https://loopdeck.raclos.es">LoopDeck</a></h3>
+      <p><b>Repetición Espaciada Inteligente (SM-2)</b></p>
+      <p>Plataforma de flashcards con múltiples modos de estudio interactivos. Incorpora generación masiva de contenido mediante IA, visor de documentos nativo y sub-mazos anidados.</p>
+      <i>Stack: Java 21, Spring Boot, React 19, Zustand, Flyway, PostgreSQL</i>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🛠️ Stack Tecnológico
+
+<div align="center">
+  <br/>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,tailwind,postgres,docker,github&perline=8" alt="Tech Stack" />
+  <br/>
+</div>
+
+<br/>
+
+## 📊 Actividad en GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaclosDev&show_icons=true&theme=transparent&hide_border=true&title_color=06B6D4&icon_color=06B6D4" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaclosDev&layout=compact&theme=transparent&hide_border=true&title_color=06B6D4" alt="Top Languages" />
+</div>
