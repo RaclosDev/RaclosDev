@@ -87,7 +87,7 @@ Plataforma fullstack para gestionar porras y predicciones del Mundial 2026 entre
 
 Soy ingeniero de software con perfil **Backend** y sólida experiencia en **Java**, **Spring Boot** y arquitecturas de microservicios. En mi día a día trabajo con transaccionalidad, infraestructura financiera y bots de trading algorítmico de baja latencia.
 
-Para mis proyectos personales, me gusta llevar el control total del producto. Diseño la infraestructura y las APIs desde cero, y me apoyo en herramientas de **Inteligencia Artificial (LLMs)** para construir y generar los frontends modernos en **React**, lo que me permite desplegar PWAs complejas actuando como un equipo completo.
+Para mis proyectos personales, me gusta tener el control *end-to-end* del producto. Diseño la arquitectura, implemento las APIs robustas en el backend y desarrollo los frontends modernos en **React**, lo que me permite desplegar PWAs complejas y llevarlas desde la idea inicial hasta producción de forma totalmente autónoma.
 
 <div align="center">
   <br>
