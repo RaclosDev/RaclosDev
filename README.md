@@ -72,7 +72,7 @@ Ligas privadas con tres formatos de porra (cuadro completo, eliminatorias o jorn
   <img src="https://img.shields.io/badge/+1.000_tests-0f1729?style=flat-square&logo=junit5&logoColor=25A162" />
 </p>
 
-**[Probar la demo sin registro](https://porra.raclos.es/demo)** · [Código](https://github.com/RaclosDev/porrApp) · [Arquitectura](https://github.com/RaclosDev/porrApp/blob/main/docs/architecture.md)
+**[Probar la demo sin registro](https://porrapp.app/demo)** · [Código](https://github.com/RaclosDev/porrApp) · [Arquitectura](https://github.com/RaclosDev/porrApp/blob/main/docs/architecture.md)
 
 <br>
 
