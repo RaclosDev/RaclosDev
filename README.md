@@ -18,7 +18,7 @@ Registro de series, cargas y comidas, con un **espacio de entrenador** para gest
 
 `Java 21` · `Spring Boot` · `React 19` · `TypeScript` · `PostgreSQL` · `PWA`
 
-**[Abrir Ascension](https://ascension.raclos.es)** · [Código y recorrido](https://github.com/RaclosDev/ascension-tracker) · [Arquitectura](https://github.com/RaclosDev/ascension-tracker/blob/main/docs/architecture.md)
+**[Abrir Ascension](https://ascension.raclos.es)** · [Código y recorrido](https://github.com/RaclosDev/ascension-tracker) · [Arquitectura](https://github.com/RaclosDev/ascension-tracker/blob/main/docs/arquitectura.md)
 
 ## LoopDeck · estudiar con continuidad
 
@@ -30,7 +30,7 @@ Flashcards con repetición espaciada **FSRS-5**, apuntes DOCX, tests y tutor con
 
 `Java 17` · `Spring Boot 3.3` · `React 19` · `TypeScript` · `PostgreSQL` · `Playwright`
 
-**[Abrir LoopDeck](https://loopdeck.raclos.es)** · [Código y recorrido](https://github.com/RaclosDev/loopdeck) · [Arquitectura](https://github.com/RaclosDev/loopdeck/blob/main/docs/ARCHITECTURE.md)
+**[Abrir LoopDeck](https://loopdeck.raclos.es)** · [Código y recorrido](https://github.com/RaclosDev/loopdeck) · [Arquitectura](https://github.com/RaclosDev/loopdeck/blob/main/docs/arquitectura.md)
 
 ## PorrApp · ligas, predicciones y torneos
 
@@ -42,7 +42,7 @@ Ligas privadas, predicciones deportivas por jornada y competiciones propias. Ade
 
 `Java 21` · `Spring Boot` · `React 19` · `TypeScript` · `PostgreSQL` · `WebSocket`
 
-**[Probar la demo](https://porrapp.app/demo)** · [Código y recorrido](https://github.com/RaclosDev/porrApp) · [Arquitectura](https://github.com/RaclosDev/porrApp/blob/main/docs/architecture.md)
+**[Probar la demo](https://porrapp.app/demo)** · [Código y recorrido](https://github.com/RaclosDev/porrApp) · [Arquitectura](https://github.com/RaclosDev/porrApp/blob/main/docs/arquitectura.md)
 
 ## Portfolio Tracker · de la vigilancia a la cartera
 
@@ -54,7 +54,7 @@ Listas de vigilancia de acciones, ETF y fondos, niveles de compra y una cartera 
 
 `TypeScript` · `Fastify 5` · `React 19` · `PostgreSQL / PGlite` · `Zod` · `Vitest`
 
-**[Código y recorrido](https://github.com/RaclosDev/portfolio-tracker)** · [Arquitectura](https://github.com/RaclosDev/portfolio-tracker/blob/main/docs/ARQUITECTURA.md) · [Aplicación privada](https://cartera.raclos.es)
+**[Código y recorrido](https://github.com/RaclosDev/portfolio-tracker)** · [Arquitectura](https://github.com/RaclosDev/portfolio-tracker/blob/main/docs/arquitectura.md) · [Aplicación privada](https://cartera.raclos.es)
 
 ## Cómo trabajo
 
