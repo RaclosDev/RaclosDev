@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://raclosdev.github.io/"><img src="banner.jpg" alt="Carlos Sanz Tomero. Construyo software, resuelvo problemas. Java, Spring Boot y TypeScript. Cuatro proyectos con código público." width="100%"></a>
+  <a href="https://raclosdev.github.io/"><img src="banner.jpg" alt="Carlos Sanz Tomero. Diseño sistemas, construyo productos. Backend con Java y Spring Boot. Cuatro proyectos con código público." width="100%"></a>
 
   **[Portfolio](https://raclosdev.github.io/)** · **[LinkedIn](https://www.linkedin.com/in/carlos-sanz-tomero/)** · **[Contacto](mailto:raclosdev@gmail.com)**
 </div>
