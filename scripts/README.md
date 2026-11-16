@@ -1,6 +1,6 @@
 # Composiciones del perfil
 
-Las portadas combinan capturas reales con tipografía y marcos HTML/CSS. No recrean la interfaz mediante IA. `projects/screens` contiene las imágenes de origen; los repositorios de cada aplicación incluyen sus scripts de captura y los datos de demostración.
+Las portadas combinan capturas reales con tipografía y marcos HTML/CSS: tres móviles por proyecto y, en Portfolio Tracker, dos ventanas de escritorio (`layout: "desktop"`). No recrean la interfaz mediante IA. `projects/screens` contiene las imágenes de origen; los repositorios de cada aplicación incluyen sus scripts de captura y los datos de demostración.
 
 Con Node.js y Chromium de Playwright instalados:
 
@@ -12,4 +12,4 @@ node scripts/render-showcase.mjs
 
 Si Playwright está instalado en otro proyecto, `PLAYWRIGHT_PACKAGE_JSON` puede apuntar a su `package.json`. El render requiere acceso a Google Fonts y comprueba que Anton e Inter estén cargadas antes de generar JPEG de 2560 × 1280. Los textos y pantallas de cada composición se definen en el script.
 
-Para actualizar: regenera primero las capturas desde cada aplicación, sustituye las fuentes de `projects/screens`, ejecuta el render y copia cada portada a `docs/screenshots/hero.jpg` de su repositorio. Revisa el resultado visual y las afirmaciones del texto antes de publicarlo. Las capturas de Portfolio Tracker usan precios, operaciones y posiciones ficticios; su aplicación requiere acceso privado.
+Para actualizar: regenera primero las capturas desde cada aplicación, sustituye las fuentes de `projects/screens`, ejecuta el render y copia cada portada a `docs/screenshots/hero.jpg` de su repositorio. Revisa el resultado visual y las afirmaciones del texto antes de publicarlo. Las capturas se hacen con la sesión iniciada. Las de Portfolio Tracker usan precios, operaciones y posiciones ficticios, y su aplicación requiere acceso privado. Las de PorrApp muestran una liga real sobre una copia local de la base de datos, con avatares ilustrados en lugar de las fotos de los participantes.

@@ -52,7 +52,7 @@ const projects = [
     accent: "#45c9c3",
     title: "Tu liga.<br>Tus reglas.<br><em>Cada jornada cuenta.</em>",
     description:
-      "Predicciones deportivas y competiciones propias. Jornadas, clasificaciones en directo y marcadores para tus partidas.",
+      "Predicciones deportivas, torneos propios y ligas de póker. Jornadas, clasificaciones en directo y cuadros hasta la final.",
     tags: [
       "Spring Boot",
       "PostgreSQL",
@@ -61,7 +61,8 @@ const projects = [
       "PWA",
       "Docker",
     ],
-    screens: ["porrapp-matchday", "porrapp-ranking", "porrapp-scoreboard"],
+    screens: ["porrapp-matchday", "porrapp-ranking", "porrapp-bracket"],
+    foot: "INTERFAZ REAL / LIGA REAL CON AVATARES ILUSTRADOS",
   },
   {
     id: "portfolio-tracker",
@@ -72,18 +73,15 @@ const projects = [
     description:
       "Listas de vigilancia, niveles de compra y cartera calculada desde tus operaciones. Una herramienta de uso privado.",
     tags: ["React 19", "PostgreSQL", "PGlite", "FIFO", "Zod", "Web Push"],
-    screens: [
-      "portfolio-watchlist",
-      "portfolio-summary",
-      "portfolio-operations",
-    ],
+    layout: "desktop",
+    screens: ["portfolio-watchlist", "portfolio-summary"],
   },
 ];
 const imageData = async (name) =>
   `data:image/png;base64,${(await readFile(new URL(`projects/screens/${name}.png`, root))).toString("base64")}`;
 const fonts =
   '<link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">';
-const style = `<style>*{box-sizing:border-box}html,body{margin:0;width:1600px;height:800px;overflow:hidden}body{font-family:Inter,sans-serif;background:#101827;color:#f2ecd9}.card{height:100%;position:relative;background:radial-gradient(ellipse at 90% 20%,#19344880,transparent 60%)}.copy{position:absolute;left:76px;top:105px;width:650px}.eyebrow{font-size:18px;font-weight:800;letter-spacing:3px;color:var(--accent);margin:0 0 32px}h1{font-family:Anton,sans-serif;font-size:64px;font-weight:400;line-height:1.17;letter-spacing:.3px;text-transform:uppercase;margin:0 0 28px}em{font-style:normal;color:var(--accent)}.description{max-width:610px;font-size:25px;line-height:1.6;color:#d2d5dc;margin:0 0 30px}.tags{display:flex;gap:10px;flex-wrap:wrap;max-width:610px}.tags span{padding:10px 17px;border:1px solid #697180;border-radius:28px;background:#ffffff08;font-size:17px;font-weight:600}.phones{position:absolute;left:770px;top:68px;width:775px;height:680px}.phone{position:absolute;top:52px;width:289px;aspect-ratio:430/932;border:9px solid #090d13;border-radius:38px;overflow:hidden;background:#101827;box-shadow:0 25px 35px #0006,0 0 0 2px #303643}.phone img{display:block;width:100%;height:100%;object-fit:cover;object-position:top}.phone:nth-child(1){left:0;transform:rotate(-8deg);z-index:1}.phone:nth-child(2){left:245px;top:0;z-index:3}.phone:nth-child(3){left:490px;transform:rotate(8deg);z-index:2}.foot{position:absolute;left:78px;bottom:35px;font-size:13px;letter-spacing:1px;color:#9fa8b8}.banner{background:#f2ecd9;color:#101827}.banner .copy{top:100px;width:1000px}.banner h1{font-size:100px;line-height:1.08}.banner .eyebrow{color:#0b5f74}.banner .description{font-size:29px;max-width:1000px;color:#42525b}.banner .tags{max-width:900px}.banner .tags span{border-color:#b4b2aa;background:none}.banner .stamp{position:absolute;right:80px;top:130px;width:260px;border:3px solid #101827;transform:rotate(7deg);padding:28px;font-family:Anton;font-size:39px;line-height:1.3;box-shadow:9px 9px 0 #101827}.banner .stamp strong{display:block;font-size:100px;font-weight:400;color:#0b5f74}.banner .foot{color:#42525b}.banner em{color:#0b5f74}</style>`;
+const style = `<style>*{box-sizing:border-box}html,body{margin:0;width:1600px;height:800px;overflow:hidden}body{font-family:Inter,sans-serif;background:#101827;color:#f2ecd9}.card{height:100%;position:relative;background:radial-gradient(ellipse at 90% 20%,#19344880,transparent 60%)}.copy{position:absolute;left:76px;top:105px;width:650px}.eyebrow{font-size:18px;font-weight:800;letter-spacing:3px;color:var(--accent);margin:0 0 32px}h1{font-family:Anton,sans-serif;font-size:64px;font-weight:400;line-height:1.17;letter-spacing:.3px;text-transform:uppercase;margin:0 0 28px}em{font-style:normal;color:var(--accent)}.description{max-width:610px;font-size:25px;line-height:1.6;color:#d2d5dc;margin:0 0 30px}.tags{display:flex;gap:10px;flex-wrap:wrap;max-width:610px}.tags span{padding:10px 17px;border:1px solid #697180;border-radius:28px;background:#ffffff08;font-size:17px;font-weight:600}.phones{position:absolute;left:770px;top:68px;width:775px;height:680px}.phone{position:absolute;top:52px;width:289px;aspect-ratio:430/932;border:9px solid #090d13;border-radius:38px;overflow:hidden;background:#101827;box-shadow:0 25px 35px #0006,0 0 0 2px #303643}.phone img{display:block;width:100%;height:100%;object-fit:cover;object-position:top}.phone:nth-child(1){left:0;transform:rotate(-8deg);z-index:1}.phone:nth-child(2){left:245px;top:0;z-index:3}.phone:nth-child(3){left:490px;transform:rotate(8deg);z-index:2}.windows{position:absolute;left:770px;top:68px;width:790px;height:680px}.window{position:absolute;width:640px;aspect-ratio:16/10;border:7px solid #090d13;border-radius:16px;overflow:hidden;background:#101827;box-shadow:0 25px 35px #0006,0 0 0 2px #303643}.window img{display:block;width:100%;height:100%;object-fit:cover;object-position:top left}.window:nth-child(1){left:0;top:24px;z-index:1}.window:nth-child(2){left:150px;top:262px;z-index:2}.foot{position:absolute;left:78px;bottom:35px;font-size:13px;letter-spacing:1px;color:#9fa8b8}.banner{background:#f2ecd9;color:#101827}.banner .copy{top:100px;width:1000px}.banner h1{font-size:100px;line-height:1.08}.banner .eyebrow{color:#0b5f74}.banner .description{font-size:29px;max-width:1000px;color:#42525b}.banner .tags{max-width:900px}.banner .tags span{border-color:#b4b2aa;background:none}.banner .stamp{position:absolute;right:80px;top:130px;width:260px;border:3px solid #101827;transform:rotate(7deg);padding:28px;font-family:Anton;font-size:39px;line-height:1.3;box-shadow:9px 9px 0 #101827}.banner .stamp strong{display:block;font-size:100px;font-weight:400;color:#0b5f74}.banner .foot{color:#42525b}.banner em{color:#0b5f74}</style>`;
 const browser = await chromium.launch();
 try {
   const page = await browser.newPage({
@@ -120,7 +118,7 @@ try {
   for (const p of projects) {
     const images = await Promise.all(p.screens.map(imageData));
     await capture(
-      `<main class="card" style="--accent:${p.accent}"><div class="copy"><p class="eyebrow">${p.name} · ${p.stack}</p><h1>${p.title}</h1><p class="description">${p.description}</p><div class="tags">${p.tags.map((t) => `<span>${t}</span>`).join("")}</div></div><div class="phones">${images.map((src) => `<div class="phone"><img src="${src}" alt=""></div>`).join("")}</div><p class="foot">RACLOSDEV · INTERFAZ REAL / DATOS DE DEMOSTRACIÓN</p></main>`,
+      `<main class="card" style="--accent:${p.accent}"><div class="copy"><p class="eyebrow">${p.name} · ${p.stack}</p><h1>${p.title}</h1><p class="description">${p.description}</p><div class="tags">${p.tags.map((t) => `<span>${t}</span>`).join("")}</div></div><div class="${p.layout === "desktop" ? "windows" : "phones"}">${images.map((src) => `<div class="${p.layout === "desktop" ? "window" : "phone"}"><img src="${src}" alt=""></div>`).join("")}</div><p class="foot">RACLOSDEV · ${p.foot ?? "INTERFAZ REAL / DATOS DE DEMOSTRACIÓN"}</p></main>`,
       `projects/${p.id}.jpg`,
     );
   }
