@@ -125,7 +125,7 @@ try {
     );
   }
   await capture(
-    `<main class="card banner"><div class="copy"><p class="eyebrow">CARLOS SANZ TOMERO · SOFTWARE ENGINEER</p><h1>BACKEND CON CRITERIO.<br><em>PRODUCTO COMPLETO.</em></h1><p class="description">Java, Spring Boot y TypeScript.<br>De las reglas de negocio a la interfaz y el despliegue.</p><div class="tags"><span>Ascension</span><span>LoopDeck</span><span>PorrApp</span><span>Portfolio Tracker</span></div></div><div class="stamp"><strong>4</strong>PROYECTOS.<br>CÓDIGO<br>PÚBLICO.</div><p class="foot">RACLOSDEV.GITHUB.IO · JAVA / SPRING / REACT / TYPESCRIPT</p></main>`,
+    `<main class="card banner"><div class="copy"><p class="eyebrow">CARLOS SANZ TOMERO · SOFTWARE ENGINEER</p><h1>CONSTRUYO SOFTWARE.<br><em>RESUELVO PROBLEMAS.</em></h1><p class="description">Java, Spring Boot y TypeScript.<br>De las reglas de negocio a la interfaz y el despliegue.</p><div class="tags"><span>Ascension</span><span>LoopDeck</span><span>PorrApp</span><span>Portfolio Tracker</span></div></div><div class="stamp"><strong>4</strong>PROYECTOS.<br>CÓDIGO<br>PÚBLICO.</div><p class="foot">RACLOSDEV.GITHUB.IO · JAVA / SPRING / REACT / TYPESCRIPT</p></main>`,
     "banner.jpg",
   );
 } finally {
