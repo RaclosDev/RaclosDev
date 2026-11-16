@@ -8,13 +8,13 @@ Soy **Carlos Sanz Tomero**, ingeniero de software con foco en **Java, Spring Boo
 
 Estos cuatro proyectos permiten recorrer el producto y después revisar cómo está construido. Los README incluyen funcionalidades, decisiones técnicas, código relevante y puesta en marcha. Las capturas muestran la interfaz actual con datos de demostración.
 
-## Ascension · entrenamiento, nutrición y seguimiento de alumnos
+## Ascension · entrenamiento, nutrición y seguimiento de atletas
 
 <a href="https://github.com/RaclosDev/ascension-tracker"><img src="projects/ascension.jpg" alt="Ascension: entrenamiento en curso, espacio de entrenador y diario de nutrición" width="100%"></a>
 
-Registro de series, cargas y comidas, con un **espacio de entrenador** para gestionar alumnos, revisiones y planes. Incluye estimación nutricional por foto con Gemini y acceso con Google, correo o passkeys.
+Registro de series, cargas y comidas, con un **espacio de entrenador** para gestionar atletas, seguimientos semanales y planes. Incluye estimación nutricional por foto con Gemini y acceso con Google, correo o passkeys.
 
-**Para revisar en el código:** conservación del entreno en IndexedDB, escrituras idempotentes, permisos entre entrenador y alumno y tareas de notificación coordinadas en PostgreSQL.
+**Para revisar en el código:** conservación del entreno en IndexedDB, escrituras idempotentes, permisos entre entrenador y atleta y tareas de notificación coordinadas en PostgreSQL.
 
 `Java 21` · `Spring Boot` · `React 19` · `TypeScript` · `PostgreSQL` · `PWA`
 
@@ -32,11 +32,11 @@ Flashcards con repetición espaciada **FSRS-5**, apuntes DOCX, tests y tutor con
 
 **[Abrir LoopDeck](https://loopdeck.raclos.es)** · [Código y recorrido](https://github.com/RaclosDev/loopdeck) · [Arquitectura](https://github.com/RaclosDev/loopdeck/blob/main/docs/ARCHITECTURE.md)
 
-## PorrApp · ligas, predicciones y partidas
+## PorrApp · ligas, predicciones y torneos
 
-<a href="https://github.com/RaclosDev/porrApp"><img src="projects/porrapp.jpg" alt="PorrApp: predicciones por jornada, clasificación y marcador de una partida de Catán" width="100%"></a>
+<a href="https://github.com/RaclosDev/porrApp"><img src="projects/porrapp.jpg" alt="PorrApp: predicciones por jornada, clasificación de una porra y cuadro de eliminatorias" width="100%"></a>
 
-Ligas privadas, predicciones deportivas por jornada y competiciones propias. Además del fútbol, contempla otros deportes y esports, y permite llevar **marcadores de partidas**. La demo pública se puede recorrer sin registro.
+Ligas privadas, predicciones deportivas por jornada y competiciones propias. Además del fútbol, contempla otros deportes y esports, **ligas de póker** con reloj de ciegas y estadísticas, y marcadores de juegos de mesa. La demo pública se puede recorrer sin registro.
 
 **Para revisar en el código:** cálculo de puntos en el backend, formatos de competición, cierre de predicciones y actualización del ranking por WebSocket.
 
@@ -46,11 +46,11 @@ Ligas privadas, predicciones deportivas por jornada y competiciones propias. Ade
 
 ## Portfolio Tracker · de la vigilancia a la cartera
 
-<a href="https://github.com/RaclosDev/portfolio-tracker"><img src="projects/portfolio-tracker.jpg" alt="Portfolio Tracker: niveles de compra, resumen de cartera y registro de operaciones ficticias" width="100%"></a>
+<a href="https://github.com/RaclosDev/portfolio-tracker"><img src="projects/portfolio-tracker.jpg" alt="Portfolio Tracker en escritorio: lista de vigilancia con niveles de compra y resumen de una cartera ficticia" width="100%"></a>
 
-Listas de vigilancia de acciones y ETF, niveles de compra y una cartera calculada desde compras, ventas y dividendos. Incluye avisos push, importación de Excel y copias de seguridad. **El despliegue es de acceso privado**; el código y las capturas son públicos.
+Listas de vigilancia de acciones, ETF y fondos, niveles de compra y una cartera calculada desde compras, ventas, dividendos y traspasos. Incluye buscador por nombre o ISIN, avisos push, importación de Excel, tema oscuro y copias de seguridad. **El despliegue es de acceso privado**; el código y las capturas son públicos.
 
-**Para revisar en el código:** lotes FIFO, cálculos y esquemas compartidos en un monorepo TypeScript, caché del proveedor de mercado y PostgreSQL con PGlite para desarrollo y pruebas.
+**Para revisar en el código:** lotes FIFO, cálculos y esquemas compartidos en un monorepo TypeScript, cadena de proveedores de mercado con caché y PostgreSQL con PGlite para desarrollo y pruebas.
 
 `TypeScript` · `Fastify 5` · `React 19` · `PostgreSQL / PGlite` · `Zod` · `Vitest`
 
