@@ -28,13 +28,13 @@ Flashcards con repetición espaciada **FSRS-5**, apuntes DOCX, tests y tutor con
 
 **Para revisar en el código:** programación de repasos, intervalos manuales, persistencia del estado de estudio e integración de Gemini desde el servidor.
 
-`Java 17` · `Spring Boot 3.3` · `React 19` · `TypeScript` · `PostgreSQL` · `Playwright`
+`Java 21` · `Spring Boot` · `React 19` · `TypeScript` · `PostgreSQL` · `Playwright`
 
 **[Abrir LoopDeck](https://loopdeck.raclos.es)** · [Código y recorrido](https://github.com/RaclosDev/loopdeck) · [Arquitectura](https://github.com/RaclosDev/loopdeck/blob/main/docs/arquitectura.md)
 
 ## PorrApp · ligas, predicciones y torneos
 
-<a href="https://github.com/RaclosDev/porrApp"><img src="projects/porrapp.jpg" alt="PorrApp: predicciones por jornada, clasificación de una porra y cuadro de eliminatorias" width="100%"></a>
+<a href="https://github.com/RaclosDev/porrApp"><img src="projects/porrapp.jpg" alt="PorrApp: predicciones por jornada, clasificación de una liga y cuadro de eliminatorias" width="100%"></a>
 
 Ligas privadas, predicciones deportivas por jornada y competiciones propias. Además del fútbol, contempla otros deportes y esports, **ligas de póker** con reloj de ciegas y estadísticas, y marcadores de juegos de mesa. La demo pública se puede recorrer sin registro.
 
@@ -48,13 +48,13 @@ Ligas privadas, predicciones deportivas por jornada y competiciones propias. Ade
 
 <a href="https://github.com/RaclosDev/portfolio-tracker"><img src="projects/portfolio-tracker.jpg" alt="Portfolio Tracker en escritorio: lista de vigilancia con niveles de compra y resumen de una cartera ficticia" width="100%"></a>
 
-Listas de vigilancia de acciones, ETF y fondos, niveles de compra y una cartera calculada desde compras, ventas, dividendos y traspasos. Incluye buscador por nombre o ISIN, avisos push, importación de Excel, tema oscuro y copias de seguridad. **El despliegue es de acceso privado**; el código y las capturas son públicos.
+Listas de vigilancia de acciones, ETF y fondos, niveles de compra y una cartera calculada desde compras, ventas, dividendos y traspasos. Incluye buscador por nombre o ISIN, avisos push, importación de Excel, tema oscuro y copias de seguridad. La **demo pública** se recorre sin registro, con una cartera ficticia.
 
-**Para revisar en el código:** lotes FIFO, cálculos y esquemas compartidos en un monorepo TypeScript, cadena de proveedores de mercado con caché y PostgreSQL con PGlite para desarrollo y pruebas.
+**Para revisar en el código:** cálculo de lotes FIFO separado de la presentación, cadena de proveedores de mercado con caché, copias y restauración de la cartera, y migraciones Flyway probadas con Testcontainers.
 
-`TypeScript` · `Fastify 5` · `React 19` · `PostgreSQL / PGlite` · `Zod` · `Vitest`
+`Java 21` · `Spring Boot` · `React 19` · `TypeScript` · `PostgreSQL` · `PWA`
 
-**[Código y recorrido](https://github.com/RaclosDev/portfolio-tracker)** · [Arquitectura](https://github.com/RaclosDev/portfolio-tracker/blob/main/docs/arquitectura.md) · [Aplicación privada](https://cartera.raclos.es)
+**[Probar la demo](https://cartera.raclos.es/demo)** · [Código y recorrido](https://github.com/RaclosDev/portfolio-tracker) · [Arquitectura](https://github.com/RaclosDev/portfolio-tracker/blob/main/docs/arquitectura.md)
 
 ## Cómo trabajo
 
