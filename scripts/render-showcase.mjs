@@ -30,7 +30,7 @@ const projects = [
   {
     id: "loopdeck",
     name: "LOOPDECK",
-    stack: "JAVA 17 + REACT 19",
+    stack: "JAVA 21 + REACT 19",
     accent: "#cebbf0",
     title: "Lo estudias.<br>Lo repasas.<br><em>Lo recuerdas.</em>",
     description:
@@ -62,17 +62,16 @@ const projects = [
       "Docker",
     ],
     screens: ["porrapp-matchday", "porrapp-ranking", "porrapp-bracket"],
-    foot: "INTERFAZ REAL / LIGA REAL CON AVATARES ILUSTRADOS",
   },
   {
     id: "portfolio-tracker",
     name: "PORTFOLIO TRACKER",
-    stack: "TYPESCRIPT + FASTIFY",
+    stack: "JAVA 21 + REACT 19",
     accent: "#8bd2b9",
     title: "Cada operación.<br>Cada posición.<br><em>Todo en su sitio.</em>",
     description:
-      "Listas de vigilancia, niveles de compra y cartera calculada desde tus operaciones. Una herramienta de uso privado.",
-    tags: ["React 19", "PostgreSQL", "PGlite", "FIFO", "Zod", "Web Push"],
+      "Listas de vigilancia, niveles de compra y cartera calculada desde tus operaciones. Con una demo pública de datos ficticios.",
+    tags: ["Spring Boot", "PostgreSQL", "TanStack Query", "FIFO", "Web Push", "PWA"],
     layout: "desktop",
     screens: ["portfolio-watchlist", "portfolio-summary"],
   },
