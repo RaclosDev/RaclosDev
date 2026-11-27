@@ -25,7 +25,8 @@ const projects = [
       "IndexedDB",
       "PWA",
     ],
-    screens: ["ascension-workout", "ascension-coach", "ascension-nutrition"],
+    url: "ASCENSION.RACLOS.ES",
+    screens: ["ascension-workout", "ascension-dashboard", "ascension-coach"],
   },
   {
     id: "loopdeck",
@@ -43,7 +44,8 @@ const projects = [
       "TypeScript",
       "PWA",
     ],
-    screens: ["loopdeck-decks", "loopdeck-study", "loopdeck-hub"],
+    url: "LOOPDECK.RACLOS.ES",
+    screens: ["loopdeck-decks", "loopdeck-study", "loopdeck-tutor"],
   },
   {
     id: "porrapp",
@@ -61,7 +63,8 @@ const projects = [
       "PWA",
       "Docker",
     ],
-    screens: ["porrapp-matchday", "porrapp-ranking", "porrapp-bracket"],
+    url: "PORRAPP.APP",
+    screens: ["porrapp-league", "porrapp-ranking", "porrapp-poker"],
   },
   {
     id: "portfolio-tracker",
@@ -70,10 +73,11 @@ const projects = [
     accent: "#8bd2b9",
     title: "Cada operación.<br>Cada posición.<br><em>Todo en su sitio.</em>",
     description:
-      "Listas de vigilancia, niveles de compra y cartera calculada desde tus operaciones. Con una demo pública de datos ficticios.",
+      "Listas de vigilancia, gráficas con tus niveles de compra y una cartera calculada desde tus operaciones: lotes FIFO, dividendos y renta.",
     tags: ["Spring Boot", "PostgreSQL", "TanStack Query", "FIFO", "Web Push", "PWA"],
     layout: "desktop",
-    screens: ["portfolio-watchlist", "portfolio-summary"],
+    url: "CARTERA.RACLOS.ES",
+    screens: ["portfolio-chart", "portfolio-summary"],
   },
 ];
 const imageData = async (name) =>
@@ -117,7 +121,7 @@ try {
   for (const p of projects) {
     const images = await Promise.all(p.screens.map(imageData));
     await capture(
-      `<main class="card" style="--accent:${p.accent}"><div class="copy"><p class="eyebrow">${p.name} · ${p.stack}</p><h1>${p.title}</h1><p class="description">${p.description}</p><div class="tags">${p.tags.map((t) => `<span>${t}</span>`).join("")}</div></div><div class="${p.layout === "desktop" ? "windows" : "phones"}">${images.map((src) => `<div class="${p.layout === "desktop" ? "window" : "phone"}"><img src="${src}" alt=""></div>`).join("")}</div><p class="foot">RACLOSDEV · ${p.foot ?? "INTERFAZ REAL / DATOS DE DEMOSTRACIÓN"}</p></main>`,
+      `<main class="card" style="--accent:${p.accent}"><div class="copy"><p class="eyebrow">${p.name} · ${p.stack}</p><h1>${p.title}</h1><p class="description">${p.description}</p><div class="tags">${p.tags.map((t) => `<span>${t}</span>`).join("")}</div></div><div class="${p.layout === "desktop" ? "windows" : "phones"}">${images.map((src) => `<div class="${p.layout === "desktop" ? "window" : "phone"}"><img src="${src}" alt=""></div>`).join("")}</div><p class="foot">RACLOSDEV · ${p.url}</p></main>`,
       `projects/${p.id}.jpg`,
     );
   }
